@@ -1,6 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Just another tech blog
+url: https://about.me/abousselmi
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -32,9 +32,8 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: abousselmi
+  url: https://github.com/abousselmi
 
 # Custom vars
 version: 3.0.0

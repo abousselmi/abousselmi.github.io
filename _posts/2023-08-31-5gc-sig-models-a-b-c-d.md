@@ -37,4 +37,4 @@ Indirect communication with delegated discovery: Consumers do not do any discove
 
 [1] 3GPP TS 29.501 version 15.5.0 Release 15
 
-[2] 3GPP TS 29.501 version 15.5.0 Release 16
+[2] 3GPP TS 29.501 version 16.6.0 Release 16

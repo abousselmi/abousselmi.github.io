@@ -1,6 +1,6 @@
 # Setup
 title: Just another tech blog
-url: https://about.me/abousselmi
+url: https://abousselmi.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -33,7 +33,7 @@ sass:
 # Specify the author for blog posts
 author:
   name: abousselmi
-  url: https://github.com/abousselmi
+  url: https://about.me/abousselmi
 
 # Custom vars
 version: 3.0.0

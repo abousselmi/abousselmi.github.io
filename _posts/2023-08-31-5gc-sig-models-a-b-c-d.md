@@ -54,6 +54,6 @@ Consumers do not do any discovery or selection. The consumer adds any necessary 
 [2] 3GPP TS 29.501 version 16.6.0 Release 16
 
 
-## Creadits
+## Credits
 
 Thanks [sofianinho](https://github.com/sofianinho) for the nice feedback

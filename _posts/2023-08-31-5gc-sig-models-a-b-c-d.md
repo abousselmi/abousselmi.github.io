@@ -3,7 +3,7 @@ layout: post
 title: "5GC Communication Models A, B, C and D"
 ---
 
-The 5th generation of mobile core networks (5GC) implement Service Based Interface (SBI) APIs for the Control Plane (CP) part of the system [1], following Service-Oriented Architecture (SOA) and Microservices principals. One of the main goals of this architecture is to achieve **loose coupling** which has multiple impacts on the system's resiliency, performance, flexibility and security.
+The 5th generation of mobile core networks (5GC) implement Service Based Interface (SBI) APIs for the Control Plane (CP) part of the system [1], following Service-Oriented Architecture (SOA) and Microservices principles. One of the main goals of this architecture is to achieve **loose coupling** which has multiple impacts on the system's resiliency, performance, flexibility and security.
 
 - toc
 {: toc }

@@ -27,25 +27,25 @@ The combination of both NRF and SCP in the 5GC generates 4 different Communicati
 
 Neither NRF nor SCP are used. Consumers are configured with producers' "NF profiles" and directly communicate with a producer of their choice [2].
 
-![Model A: Direct communication without NRF interaction](assets/posts/5gc-sig-model-a "Model A: Direct communication without NRF interaction")
+![Model A: Direct communication without NRF interaction](assets/posts/5gc-sig-model-a.png "Model A: Direct communication without NRF interaction")
 
 ## Model B: Direct communication with NRF interaction
 
 Consumers do discovery by querying the NRF. Based on the discovery result, the consumer does the selection. The consumer sends the request to the selected producer [2].
 
-![Model B: Direct communication with NRF interaction](assets/posts/5gc-sig-model-b "Model B: Direct communication with NRF interaction")
+![Model B: Direct communication with NRF interaction](assets/posts/5gc-sig-model-b.png "Model B: Direct communication with NRF interaction")
 
 ## Model C: Indirect communication without delegated discovery
 
 Consumers do discovery by querying the NRF. Based on discovery result, the consumer does the selection of an NF Set or a specific NF instance of NF set. The consumer sends the request to the SCP containing the address of the selected service producer pointing to a NF service instance or a set of NF service instances. In the latter case, the SCP selects an NF Service instance. If possible, the SCP interacts with NRF to get selection parameters such as location, capacity, etc. The SCP routes the request to the selected NF service producer instance [2].
 
-![Model C: Indirect communication without delegated discovery](assets/posts/5gc-sig-model-c "Model C: Indirect communication without delegated discovery")
+![Model C: Indirect communication without delegated discovery](assets/posts/5gc-sig-model-c.png "Model C: Indirect communication without delegated discovery")
 
 ## Model D: Indirect communication with delegated discovery
 
 Consumers do not do any discovery or selection. The consumer adds any necessary discovery and selection parameters required to find a suitable producer to the service request. The SCP uses the request address and the discovery and selection parameters in the request message to route the request to a suitable producer instance. The SCP can perform discovery with an NRF and obtain a discovery result [2].
 
-![Model D: Indirect communication with delegated discovery](assets/posts/5gc-sig-model-d "Model D: Indirect communication with delegated discovery")
+![Model D: Indirect communication with delegated discovery](assets/posts/5gc-sig-model-d.png "Model D: Indirect communication with delegated discovery")
 
 ## References
 

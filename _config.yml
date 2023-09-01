@@ -3,7 +3,8 @@ title: Just another tech blog
 url: https://abousselmi.github.io
 paginate: 1
 baseurl: ""
-permalink: pretty
+#permalink: pretty
+permalink: /:title
 
 # Gems
 plugins:

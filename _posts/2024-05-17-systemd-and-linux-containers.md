@@ -3,7 +3,7 @@ layout: post
 title: "Systemd and Linux Containers"
 ---
 
-Systemd is a system and service manager for Linux operating systems. It is designed to replace the traditional SysVinit init system and provides a range of features for managing system processes, services, and resources. Some key features of systemd include:
+Systemd is a init system and service manager for Linux operating systems. It is designed to replace the traditional SysVinit init system and provides a range of features for managing system processes, services, and resources. Some key features of systemd include:
 
 - **Service Management**: Systemd manages system services, daemons, and other processes using unit files. It provides utilities like systemctl to start, stop, enable, disable, and manage services
 

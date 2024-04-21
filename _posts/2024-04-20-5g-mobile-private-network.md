@@ -154,3 +154,7 @@ as:
 - [sysmocom](https://sysmocom.de/products/cni/) - 3G & 4G private core networks based on Osmocom
 - [NeoPlane](https://neoplane.io/) - private 4G & 5G core networks based on Open5GS
 
+## Credits
+
+Figures made with ❤️  using [draw.io](https://app.diagrams.net/)
+

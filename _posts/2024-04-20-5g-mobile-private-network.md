@@ -3,6 +3,12 @@ layout: post
 title: "On 5G Mobile Private Networks"
 ---
 
+Diving into the realm of 5G Mobile Private Networks, seeking to 
+understand their potential, enablers and deployment models.
+
+- toc
+{: toc }
+
 ## What is a 5G Mobile Private Network ?
 
 A 5G Mobile Private Network (MPN), also known as a 5G Private Network 

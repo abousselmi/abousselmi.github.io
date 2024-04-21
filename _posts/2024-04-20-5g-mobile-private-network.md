@@ -58,7 +58,7 @@ Key features and characteristics of 5G MPNs include:
 5G Mobile Private Networks (MPNs) are enabled by several key technologies,
 including edge computing, lightweight 5G mobile networks, and automation.
 
-- **Edge Computing: Edge computing brings computational resources closer 
+- **Edge Computing**: Edge computing brings computational resources closer 
     to the data source, reducing latency and enabling faster processing 
     of data. In the context of 5G MPNs, edge computing plays a crucial 
     role in supporting real-time applications and services. By deploying

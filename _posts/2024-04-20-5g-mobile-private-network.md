@@ -129,7 +129,7 @@ public cloud). The UP is fully deployed on-premise.
 
 ### Hybrid Deployment - option b.
 
-In this option, two UPFs are be deployed, one 
+In this option, two UPFs are deployed, one 
 on-premise and another in the central cloud. The on-premise UPF is deployed within
 the enterprise premises, closer to the edge devices and applications. This UPF 
 is responsible for local breakout of traffic destined for enterprise edge cloud

@@ -29,7 +29,7 @@ Creating a container with systemd involves setting up a systemd unit file to man
 Create a systemd unit file (with a `.service` extension) to define the container service. This unit file will specify how the container should be managed by systemd.
 
 ```bash
-# /etc/systemd/system/nginx.service
+# /lib/systemd/system/nginx.service
 
 [Unit]
 Description=My Nginx Container
